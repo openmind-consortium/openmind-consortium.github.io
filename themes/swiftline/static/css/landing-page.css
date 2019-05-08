@@ -207,3 +207,7 @@ p.copyright {
 .github-btn {
     margin-top: 10px;
 }
+
+figure > img {
+    height: 200px;
+}

@@ -3,6 +3,7 @@ languageCode: "en-us"
 title: "OpenMind Consortium"
 theme: "swiftline"
 canonifyURLs: true
+pygmentsCodefences: true
 
 params:
   description: "Amazing project."
