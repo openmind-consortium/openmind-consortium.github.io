@@ -7,7 +7,6 @@ sections:
 - type: document
   path: config.yml
   label: Site Config
-  match: "**/*"
 - type: directory
   path: content/post
   label: Post
