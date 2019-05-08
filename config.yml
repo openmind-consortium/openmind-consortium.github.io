@@ -2,6 +2,7 @@ baseURL: "https://openmind-consortium.github.io/"
 languageCode: "en-us"
 title: "OpenMind Consortium"
 theme: "swiftline"
+canonifyURLs: true
 
 params:
   description: "Amazing project."
