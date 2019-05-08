@@ -14,8 +14,8 @@
                 <div>
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">{{ .Title }}</h2>
-                    {{ .Content }}
+                    <h2 class="section-heading">{{ markdownify .Title }}</h2>
+                    {{ markdownify .Content }}
                 </div>
             </div>
 
