@@ -1,0 +1,24 @@
+baseURL: "http://example.org/"
+languageCode: "en-us"
+title: "OpenMind Consortium"
+theme: "swiftline"
+
+params:
+  description: "Amazing project."
+  project_url: "https://github.com/openmind-consortium"
+  project_documentation: ""
+  github_project_name: "OpenMind Consortium"
+  github_user_name: "OpenMind Consortium"
+
+  first_color: "#f8f8f8"
+  first_border_color: "#e7e7e7"
+  first_text_color: "#333"
+
+  second_color: "white"
+  second_text_color: "#333"
+
+  header_color: "#f8f8f8"
+  header_text_color: "rgb(51, 51, 51)"
+
+  header_link_color: "#777"
+  header_link_hover_color: "rgb(51, 51, 51)"
