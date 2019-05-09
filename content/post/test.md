@@ -9,7 +9,7 @@ date: 2019-05-08T19:50:07.000+00:00
 
 [Oxford](http://www.ibme.ox.ac.uk/research/bioelectronic-medicine/tim-denison)
 
-[Brown University](http://borton.engin.brown.edu/)
+[Brown/Baylor University](http://borton.engin.brown.edu/)
 
 \--
 
