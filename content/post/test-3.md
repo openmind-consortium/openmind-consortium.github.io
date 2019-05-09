@@ -4,7 +4,8 @@ title = "Test 3"
 
 +++
 
-maybe an image:
+##maybe an image:
 
+Testing
 
 {{< figure src="/images/eeg-guide-hero-image.png" title="F. brain" >}}
