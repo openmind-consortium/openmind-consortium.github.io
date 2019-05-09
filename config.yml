@@ -9,8 +9,8 @@ params:
   description: Building frameworks for responsible neuromodulation
   project_url: https://github.com/openmind-consortium
   project_documentation: ''
-  github_project_name: Open Mind
-  github_user_name: Open Mind
+  github_project_name: OpenMind Consortium
+  github_user_name: OpenMind Consortium
   first_color: "#f8f8f8"
   first_border_color: "#e7e7e7"
   first_text_color: "#333"
