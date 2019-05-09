@@ -6,7 +6,7 @@ theme: swiftline
 canonifyURLs: true
 pygmentsCodefences: true
 params:
-  description: Amazing project.
+  description: Building frameworks for responsible neuromodulation
   project_url: https://github.com/openmind-consortium
   project_documentation: ''
   github_project_name: Open Mind
