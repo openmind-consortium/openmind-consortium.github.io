@@ -5,4 +5,4 @@ title = "Resources"
 +++
 * OSF website
 * Github development and deployment repositories
-* Slack HQ
+* Slack
