@@ -4,5 +4,5 @@ title = "Resources"
 
 +++
 * OSF website
-* Github development and deployment repositories
+* [Github development and deployment repositories](https://github.com/openmind-consortium)
 * Slack
