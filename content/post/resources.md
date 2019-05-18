@@ -7,6 +7,10 @@ The “Open Mind” neural communications consortium was formed to accelerate co
 
 Our goal is to provide investigators with critical elements to the launch of their own clinical studies: A “turnkey” user interface to get started, a library of more sophisticated, open source software elements for neural sensing at home paired with peripheral monitors, and streamlined regulatory pathway for FDA approval of investigational protocols, which we call the “Open Source Quality Management System”. We will disseminate education and resources through biannual workshops and a web-based library of regulatory documents, software, and the Quality Management System*.
 
+## What is public and what is private
+
+Many medical device manufacturers that provide investigational devices for research use require contracts between institutions and their company. These contracts cover intellectual property rights and govern what information must be kept private. See the NIH [public private partnership]() for more detailed examples of such contracts. In order to comply with these contracts, the OpenMind GitHub code repository will only be available to Open Mind consortium members that have a contract with the relevant device manufacturer for that repository. We have other resources, such as IDE documents, consent documents and QMS examples on the [OSF](https://osf.io/ya5jf/) website.
+
 ## How to Join
 
 #### As a scientist or code contributor
