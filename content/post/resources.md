@@ -15,7 +15,7 @@ Many medical device manufacturers that provide investigational devices for resea
 
 #### As a scientist or code contributor
 
-We are eager to expand the scientific and clinical research community aiming to understand the brain and lower the barrier of entry for new teams. Currently, we require an existing agreement with the device manufacture with whom you work. Please follow this [link](https://forms.gle/S3vQwvLV8vFWbQU48) to submit an Open Mind invitation form.
+We are eager to expand the scientific and clinical research community aiming to understand the brain and lower the barrier of entry for new teams. Currently, we require an existing agreement with the device manufacture with whom you work. Please follow this [link](https://forms.gle/pLawjnTbeUETP7JY7 "link") to submit an Open Mind invitation form.
 
 #### As a device creator
 
