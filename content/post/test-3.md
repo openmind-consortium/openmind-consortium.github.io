@@ -5,7 +5,7 @@ title = "Resources"
 +++
 ### Public
 
-IDE Documentation – [OSF website](https://osf.io/ya5jf/)
+On-going clinical study IDE Documentation – [OSF website](https://osf.io/ya5jf/)
 
 OpenMind Software – [Github development and deployment repositories](https://github.com/openmind-consortium) (please note that we will soon be reorganizing the GitHub repositories to streamline external access points and agile organization)
 
