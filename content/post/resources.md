@@ -4,7 +4,7 @@ draft = true
 title = "What is Open Mind?"
 
 +++
-Discussion of Responsible 
+Discussion of Responsible
 
 What we've done / groups and workshops
 
@@ -13,6 +13,8 @@ What's new
 What's next / pull from milestones
 
 Highlight contributors
+
+Add Heather to contact list
 
 The “Open Mind” neural communications consortium was formed to accelerate cooperation and innovation in the use of implantable neurostimulation hardware platforms. These next generation devices incorporate sensing of cortical and subcortical field potential activity, with the capability for wireless streaming from the internal device to external computers over years. Our founding team represents the major clinical areas of interest in neuromodulation: movement disorders (UCSF), epilepsy (Mayo Clinic), and psychiatry (Brown/Baylor), and includes experts in the design and dissemination of implantable devices (Oxford), and in neuroethics. This consortium will facilitate already funded proposals, as well as entry of new investigators, in the rapidly evolving ecosystem of implantable wireless neural interfaces.
 
