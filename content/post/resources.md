@@ -8,6 +8,8 @@ Discussion of Responsible
 
 What we've done / groups and workshops
 
+What's new
+
 What's next / pull from milestones
 
 Highlight contributors
