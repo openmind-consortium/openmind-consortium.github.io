@@ -11,6 +11,8 @@ OpenMind Software – [Github development and deployment repositories](https://g
 
 Slack – [https://open-mind-consortium.slack.com](https://open-mind-consortium.slack.com)
 
+NIH Public-Private Partnership – [https://braininitiative.nih.gov/brain-programs/public-private-partnerships](https://braininitiative.nih.gov/brain-programs/public-private-partnerships)
+
 ### Private
 
 For access to private resources, please submit an inquiry via this [form](https://docs.google.com/forms/d/1mkkpLdxARdc__DjZ-8z9cXuDaDoTXtI4mF0St_YPhrU/prefill).
