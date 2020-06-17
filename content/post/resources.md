@@ -1,6 +1,5 @@
 +++
 date = 2019-05-08T21:00:00Z
-draft = true
 title = "What is Open Mind?"
 
 +++
