@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Open Mind</title>
+    <link>https://openmind-consortium.github.io/post/</link>
+    <description>Recent content in Posts on Open Mind</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 May 2019 21:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://openmind-consortium.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What is Open Mind?</title>
+      <link>https://openmind-consortium.github.io/post/resources/</link>
+      <pubDate>Wed, 08 May 2019 21:00:00 +0000</pubDate>
+      
+      <guid>https://openmind-consortium.github.io/post/resources/</guid>
+      <description>The “Open Mind” neural communications consortium was formed to accelerate cooperation and innovation in the use of implantable neurostimulation hardware platforms. These next generation devices incorporate sensing of cortical and subcortical field potential activity, with the capability for wireless streaming from the internal device to external computers over years. Our founding team represents the major clinical areas of interest in neuromodulation: movement disorders (UCSF), epilepsy (Mayo Clinic), and psychiatry (Brown/Baylor), and includes experts in the design and dissemination of implantable devices (Oxford), and in neuroethics.</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>https://openmind-consortium.github.io/post/test-3/</link>
+      <pubDate>Wed, 08 May 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://openmind-consortium.github.io/post/test-3/</guid>
+      <description>Public On-going clinical study IDE Documentation – OSF website
+OpenMind Software – Github development and deployment repositories (please note that we will soon be reorganizing the GitHub repositories to streamline external access points and agile organization)
+Slack – https://open-mind-consortium.slack.com
+NIH Public-Private Partnership – https://braininitiative.nih.gov/brain-programs/public-private-partnerships
+Private For access to private resources, please submit an inquiry via this form.</description>
+    </item>
+    
+    <item>
+      <title>OpenMind Principle Investigators</title>
+      <link>https://openmind-consortium.github.io/post/test/</link>
+      <pubDate>Wed, 08 May 2019 19:50:07 +0000</pubDate>
+      
+      <guid>https://openmind-consortium.github.io/post/test/</guid>
+      <description>University of California, San Francisco - Lead Phil Starr
+Mayo Clinic – Lead Greg Worrell
+Oxford – Lead Tim Denison
+Brown University – Lead David Borton</description>
+    </item>
+    
+  </channel>
+</rss>
